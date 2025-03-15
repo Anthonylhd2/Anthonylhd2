@@ -5,7 +5,7 @@
 ## 🏆 About Me  
 💻 **3rd Year Computer Science Student** at Notre Dame University Louaize, passionate about both **frontend** and **backend** development. I enjoy bringing ideas to life through code and constantly seek opportunities to apply and refine my skills.
 
-📚 I’m currently working on a **Warehouse Management System (WMS)** app using **Flutter**, **Laravel** for the backend, and **PostgreSQL** as the database, focusing on real-time inventory tracking and responsive UI. This project has been a great way to deepen my understanding of software development while experimenting with new technologies.
+📚 I’m currently working on a **Warehouse Management System (WMS)** app using **Flutter**, **Laravel** for the backend, and **PostgreSQL** as the database. This project has been a great way to deepen my understanding of software development while experimenting with new technologies.
 
 🎓 **Graduating Spring 2025** | Actively seeking opportunities to grow, innovate, and collaborate on impactful projects.
 
